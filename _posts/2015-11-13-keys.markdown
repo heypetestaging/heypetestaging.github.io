@@ -1,0 +1,65 @@
+---
+layout: page
+title:  "Pete Stephenson's Public Keys"
+date:   2015-11-13 12:50:00
+categories: misc
+---
+
+This page contains details of my commonly used PGP keys. You can use these keys to verify digital signatures in messages I've sent or to send me encrypted messages.
+
+Please verify the identifying characteristics (key ID and fingerprints) of my keys with the information below before sending me signed or encrypted mail.
+
+I encourage you to send me PGP signed/encrypted mail when you contact me.
+
+Note: As of 2011-11-27, I've moved one primary key (0xDA122186 and its encryption subkey 0x19DF6C14) to secure offline storage. I have published new subkeys for both signing and encryption, and they are available here and on public keyservers. If you have an older copy of this public key, please update to the latest version. In general, it's a good idea to update your public keyring on a regular basis.
+
+See here and here for more information about subkeys and why they're a good idea.
+
+For those who are interested, my active subkeys for key 0xDA122186 are stored on a German Privacy Foundation Crypto Stick. The primary and subkeys for 0x85EB9F44 are stored on separate OpenPGP smartcards. Both are an excellent way of securely storing one's keys.
+
+PGP Keys and Fingerprints
+
+Active Keys:
+Key #1:
+UID: Pete Stephenson <pete@heypete.com>
+Key ID: 0xDA122186 (click to download)
+Key Length and Type: 3072 DSA
+Created: 2010-06-05 (YYYY-MM-DD)
+Expires: Never
+Fingerprint: 05DA 555F 35DC 901F 2697 5F8D 9AB7 E89F DA12 2186
+Subkeys:
+Active:
+Signing: 0x6E0CAE95 - RSA 2048, created: 2011-11-27, expires: 2016-11-25
+Encryption: 0x827F263C - RSA 2048, created 2011-11-27, expires 2016-11-25
+
+Inactive: (while still valid, please do not use)
+Encryption: 0x19DF6C14 - ElGamal 4096, created: 2010-06-05, expires: never
+
+Key #2:
+UID: Pete Stephenson <pete@heypete.com>
+Key ID: 0x85EB9F44 (click to download)
+Key Length and Type: 4096 RSA
+Created: 2013-04-19 (YYYY-MM-DD)
+Expires: Never
+Fingerprint: 1C60 0C6C CEA4 4628 D243 9A13 9A5C C3A4 85EB 9F44
+Subkeys:
+Signing: 0xF993F940 - RSA 2048, created: 2013-04-20, expires: 2018-04-25
+Encryption: 0x034D2B98- RSA 2048, created 2013-04-20, expires 2018-04-25
+
+Older, revoked key:
+UID: Pete Stephenson <pete@heypete.com>
+Key ID: 0x8A794603
+Key Length and Type: 1024 DSA
+Created: 2007-09-24 (YYYY-MM-DD)
+Expires: 2013-01-01 (YYYY-MM-DD)
+Revoked: 2013-09-07 (YYYY-MM-DD) - Reason: key expired, revoking to ensure it's no longer used.
+Fingerprint: 476F 3423 A970 C51B D5F6 FF06 8FFB F833 8A79 4603
+PGP Pathfinder
+
+Your Key ID: 0x
+
+My Key ID: 0x Find trust paths to me Reset 
+How can I download your public key?
+My PGP keys are available above, as well as on common keyservers.
+
+Again, please verify that the fingerprints match the ones published above before using them.

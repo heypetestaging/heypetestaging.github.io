@@ -1,0 +1,9 @@
+# Site settings
+title: HeyPete!
+email: pete@heypete.com
+description: A well thought our description of Pete should go here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.heypete.com"
+
+# Build settings
+markdown: kramdown

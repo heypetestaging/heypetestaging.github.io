@@ -1,0 +1,26 @@
+- id: FamilyGallery
+  description: This is a gallery containing images of my family
+  imagefolder: /img/family
+  images:
+  - name: Fire Truck
+    thumb: firetruck.jpg
+    text: One big red firetruck
+  - name: Water Baloon
+    thumb: waterballoon.jpg
+    text: A blue water balloon about to Pop!
+  - name: Sea Side
+    thumb: seaside.jpg
+    text: Waves crashing against the coast
+- id: BuisnessGallery
+  description: This is a gallery containing buisness related images
+  imagefolder: /img/buisness
+  images:
+  - name: Charts
+    thumb: charts.jpg
+    text: Charts of last weeks meetings
+  - name: Team Photo
+    thumb: teamphoto.jpg
+    text: The office partners
+  - name: Christmas at the office
+    thumb: xmasoffice.jpg
+    text: The office christmas party
